@@ -1,4 +1,4 @@
-# Visual Vasic
+# Visual Basic
 > **Note**: This coursework was completed for **Visual Basic** at **Canadore College** in **2022**. It may not reflect my current conding practices or skill level.
 
 ## Course Description
